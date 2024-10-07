@@ -115,3 +115,5 @@ Here, we collect definitions of important concepts
 **Linear Regression**: A type of supervised learning algorithm that optimizes a linear function to data points. 
 
 **Gradient Boosting**: A machine learning technique used for regression and classification tasks that builds an ensemble of weak learners, typically decision trees, where each new model corrects the errors of the previous ones in an iterative manner.
+
+**Detection**: The great goal of ML can be detecting different things, concepts and etc in a large data.
